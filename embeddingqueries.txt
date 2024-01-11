@@ -1,0 +1,10 @@
+"Hey I have sopme exams coming up can you give me some study tips for effective time management during exams?",
+"I've been feeling really sick lately can you recommend me some options for a balanced diet?", 
+"I'm having an issue with my phone not taking any battery charge do you know how I can fix it?",
+"Can you suggest some interesting books to read this weekend?",
+"I want to go on a vacation in a few weeks, can you recommend me some memorable places to stay?",
+"Can you recommend me a workout routine, I've been feeling very lazy today",
+"What is Elon Musk doing with the new Starship to Mars?",
+"Can you suggest ways I can manage my stress? I've been having really bad sleeps lately",
+"What Christmas presents should I buy for my friend?",
+"I need to put together some New Year's resolutions, can you help me?"
